@@ -1,10 +1,10 @@
 ## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
   <img align="right" alt="CAMMF-Avatar" height="150" width="150" src="https://github.com/calbertofilho/calbertofilho/blob/main/CAMMF-Avatar.png">
-- This is my ✨ perfil ✨<br/>
+- This is my ✨ perfil ✨<br/><br/>
 - 👀 I'm interested in programming<br/>
 - 🌱 I'm currently learning Python<br/>
-  <br/>
+  <br/><br/>
   <a href="https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/CFilhoCE" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/CFilhoCE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
