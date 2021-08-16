@@ -12,8 +12,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
-<div>
   <a href="https://github.com/calbertofilho">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark"/>
 </div>
