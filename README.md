@@ -1,6 +1,6 @@
 ## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
-  <img align="right" alt="CAMMF-Avatar" height="150" width="150" src="https://github.com/calbertofilho/calbertofilho/blob/main/CAMMF-Avatar.png">
+  <img align="left" alt="CAMMF-Avatar" height="150" width="150" src="https://github.com/calbertofilho/calbertofilho/blob/main/CAMMF-Avatar.png">
 - This is my ✨ perfil ✨<br/><br/>
 - 👀 I'm interested in programming<br/>
 - 🌱 I'm currently learning Python<br/>
@@ -16,6 +16,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&layout=compact&langs_count=10&theme=dark"/>
 </div>
+<div>
+
+  ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+<br/>  
 <div style="display: inline_block"><br/>
   <img align="center" alt="CAMMF-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img align="center" alt="CAMMF-Nginx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
@@ -54,10 +60,3 @@
   <img align="center" alt="CAMMF-Ssh" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" alt="CAMMF-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
 </div>
-<br/>
-<div> 
-
-  ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-  
