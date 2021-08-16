@@ -14,12 +14,12 @@
 <br/>
 <div>
   <a href="https://github.com/calbertofilho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark"/>
 </div>
 <div>
 
-    ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <div style="display: inline_block"><br/>
