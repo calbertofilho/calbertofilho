@@ -1,11 +1,11 @@
-## Hiii! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I am Carlos Alberto Filho... (@calbertofilho)
+## Hey!!! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I'm Carlos Alberto Filho... (@calbertofilho)
 <div>  
   <img align="left" alt="CAMMF-Avatar" height="140" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 This is my :construction: dev profile: :heavy_check_mark:<br/>
-- :house_with_garden: I'm from Brazil.<br/>
+- :house_with_garden: I am from Brazil.<br/>
 - :computer: I'm interested in programming<br/>
-- :books: I'm currently learning Python<br/>
-- :globe_with_meridians: To contact me or follow:<br/>
+- :books: And I'm currently learning Python<br/>
+- :globe_with_meridians: To follow me or contact:<br/>
   <a href="https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cfilhoce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/CFilhoCE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
