@@ -1,7 +1,7 @@
 ## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
-  <img align="left" alt="CAMMF-Avatar" height="150" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
-- This is my ✨ perfil ✨<br/><br/>
+  <img align="left" alt="CAMMF-Avatar" height="140" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+This is my ✨ perfil: ✨<br/><br/>
 - 👀 I'm interested in programming<br/>
 - 🌱 I'm currently learning Python<br/>
 - 🌐 To contact me or follow:<br/>
