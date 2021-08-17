@@ -1,16 +1,20 @@
-## Hey!!! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I'm Carlos Alberto Filho... (@calbertofilho)
-<div>  
-  <img align="left" alt="CAMMF-Avatar" height="140" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-This is my :construction: dev profile: :heavy_check_mark:<br/>
-- :house_with_garden: I am from Brazil.<br/>
-- :computer: I'm interested in programming<br/>
-- :books: And I'm currently learning Python<br/>
-- :globe_with_meridians: To follow me or contact:<br/>
-  <a href="https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/cfilhoce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/CFilhoCE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "https://github.com/calbertofilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carlos@lberto.eti.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## Hey!!! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho))
+<div>
+
+  [<img align="left" alt="CAMMF-Avatar" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="140" target="_blank">](https://github.com/calbertofilho)
+
+  This is my :construction: dev profile: :heavy_check_mark:<br/>
+  :house_with_garden: I am from Brazil.<br/>
+  :computer: I'm interested in programming<br/>
+  :books: And I'm currently learning Python<br/>
+  :globe_with_meridians: To follow me or contact:
+
+  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
+  [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/cfilhoce)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">](https://twitter.com/CFilhoCE)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/calbertofilho)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:carlos@lberto.eti.br)
+
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
     {TEXT} = Paste your badge text
@@ -19,16 +23,14 @@ This is my :construction: dev profile: :heavy_check_mark:<br/>
     {LOGO-COLOR} = Same as BADGE-BGCOLOR
   -->
 </div>
-<br/>
-<a href="https://github.com/calbertofilho">
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&layout=compact&langs_count=10&theme=dark"/>
 
-  ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
+<div>
 
-  </div>
-</a>
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/calbertofilho)
+  [<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&layout=compact&langs_count=10&theme=dark"/>](https://github.com/calbertofilho)
+  [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
+
+</div>
 <details>
   <summary>
     <b>Things to know about me...</b> <i>(Click to expand)</i>
