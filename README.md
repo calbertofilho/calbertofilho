@@ -1,6 +1,6 @@
 ## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
-  <img align="left" alt="CAMMF-Avatar" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <img align="left" alt="CAMMF-Avatar" height="140" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 This is my ✨ perfil: ✨<br/><br/>
 - 👀 I'm interested in programming<br/>
 - 🌱 I'm currently learning Python<br/>
