@@ -1,4 +1,4 @@
-## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
+## Hiii! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
   <img align="left" alt="CAMMF-Avatar" height="140" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 This is my ✨ dev profile: ✨<br/><br/>
