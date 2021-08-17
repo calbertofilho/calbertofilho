@@ -1,6 +1,6 @@
 ## Hiii! 👋 I am Carlos Alberto Filho... (@calbertofilho)
 <div>  
-  <img align="left" alt="CAMMF-Avatar" height="120" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+  <img align="left" alt="CAMMF-Avatar" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 This is my ✨ perfil: ✨<br/><br/>
 - 👀 I'm interested in programming<br/>
 - 🌱 I'm currently learning Python<br/>
@@ -9,7 +9,6 @@ This is my ✨ perfil: ✨<br/><br/>
   <a href="https://instagram.com/cfilhoce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/CFilhoCE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/calbertofilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlos@lberto.eti.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
