@@ -1,4 +1,5 @@
-## Hey!!! <img alt="hello" height="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"> I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho))
+## Hey!!! <img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/Hey!.gif"> I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho))
+
 <div>
 
   [<img align="left" alt="CAMMF-Avatar" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="150" target="_blank">](https://github.com/calbertofilho)
