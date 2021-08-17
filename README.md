@@ -2,7 +2,7 @@
 
 <div>
 
-  [<img align="left" alt="CAMMF-Avatar" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="140" target="_blank">](https://github.com/calbertofilho)
+  [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="140" target="_blank">](https://github.com/calbertofilho)
   This is my :construction: dev profile: :heavy_check_mark:<br/>
   :house_with_garden: I am from Brazil.<br/>
   :computer: I'm interested in programming<br/>
