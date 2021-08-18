@@ -37,18 +37,6 @@
 </div>
 
 ##
-<div align="center">
-  <details>
-    <summary>
-      <b>My repositories...</b> <i>(Click to expand)</i>
-    </summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
-  </details>
-</div>
-
 <div style="display: inline_block">
   <details>
     <summary>
@@ -104,5 +92,17 @@
       <img align="center" alt="CAMMF-Ssh" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
       <img align="center" alt="CAMMF-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
     </a>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>
+      <b>My repositories...</b> <i>(Click to expand)</i>
+    </summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
   </details>
 </div>
