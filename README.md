@@ -1,16 +1,29 @@
 ## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
-
 <div>
 
+  <div style="float:right">
+
+  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
+  [<img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="CAMMF-SupportMe" />](https://www.buymeacoffee.com/calbertofilho)
+
+  </div>
+
+
+  <div style="float: left">
+
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="165" target="_blank">](https://github.com/calbertofilho)
-  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
-  This is my :construction: dev profile: :heavy_check_mark:
-  <ul style="margin: 0px; padding: 0px; border: 0px;">
-    :house_with_garden: I am a passionate developer from Brazil<br/>
-    :computer: I'm currently interested in game development<br/>
-    :books: And I'm now learning Python<br/>
-    :globe_with_meridians: To follow me or contact:<br/>
-  </ul>
+
+  </div>
+
+
+  <div style="float: left">
+    <ul style="margin: 0px; padding: 0px; border: 0px;">
+      This is my :construction: dev profile: :heavy_check_mark:<br/>
+      :house_with_garden: I am a passionate developer from Brazil<br/>
+      :computer: I'm currently interested in game development<br/>
+      :books: And I'm now learning Python<br/>
+      :globe_with_meridians: To follow me or contact:<br/>
+    </ul>
 
   [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
   [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/cfilhoce)
@@ -24,9 +37,10 @@
     {LOGO-NAME} = Logo name from Simple Icon (https://simpleicons.org/)
     {LOGO-COLOR} = Same as BADGE-BGCOLOR
   -->
-
+  </div>
 
 </div>
+
 
 ##
 <div align="center">
@@ -110,11 +124,4 @@
       <img align="center" alt="CAMMF-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
     </a>
   </details>
-</div>
-
-<div>
-  Support me:
-  
-  [<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CAMMF-SupportMe" />](https://www.buymeacoffee.com/calbertofilho)
-
 </div>
