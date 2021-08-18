@@ -1,4 +1,4 @@
-## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img align="right" alt="CAMMF-Views" src="https://views.whatilearened.today/views/github/calbertofilho/views.svg" target="_blank">](https://github.com/calbertofilho)
+## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img align="right" alt="CAMMF-ProfileViews" src="https://komarev.com/ghpvc/?username=calbertofilho" target="_blank">](https://github.com/calbertofilho)
 
 <div>
 
