@@ -37,7 +37,7 @@
 </div>
 
 ##
-<div>
+<div align="center">
   <details>
     <summary>
       <b>My repositories...</b> <i>(Click to expand)</i>
@@ -49,9 +49,9 @@
       <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
     </p>
   </details>
-</div>
+</div><br/>
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <details>
     <summary>
       <b>Things to know about me...</b> <i>(Click to expand)</i>
