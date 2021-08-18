@@ -2,7 +2,7 @@
 
 <div>
 
-  [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="140" target="_blank">](https://github.com/calbertofilho)
+  [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="150" target="_blank">](https://github.com/calbertofilho)
   This is my :construction: dev profile: :heavy_check_mark:
 
   <h6>
