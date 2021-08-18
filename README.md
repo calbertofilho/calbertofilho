@@ -4,12 +4,12 @@
 
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="150" target="_blank">](https://github.com/calbertofilho)
   This is my :construction: dev profile: :heavy_check_mark:
-  <h6 style="margin: 0px; padding: 0px; border: 0px;">
+  <ul style="margin: 0px; padding: 0px; border: 0px;">
     :house_with_garden: I am from Brazil.<br/>
     :computer: I'm interested in programming<br/>
     :books: And I'm currently learning Python<br/>
     :globe_with_meridians: To follow me or contact:<br/>
-  </h6>
+  </ul>
 
   [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
   [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/cfilhoce)
