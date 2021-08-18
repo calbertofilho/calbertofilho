@@ -1,9 +1,9 @@
-## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)<br/>
-[<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
+## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
 
 <div>
 
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="165" target="_blank">](https://github.com/calbertofilho)
+  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
   This is my :construction: dev profile: :heavy_check_mark:
   <ul style="margin: 0px; padding: 0px; border: 0px;">
     :house_with_garden: I am from Brazil.<br/>
@@ -25,15 +25,17 @@
     {LOGO-COLOR} = Same as BADGE-BGCOLOR
   -->
 
+
 </div>
 
 ##
 <div align="center">
 
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)<br/>
-  [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000"/>](https://github.com/calbertofilho)
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" />](https://github.com/calbertofilho)<br/>
+  [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000" alt="CAMMF-Streak" />](https://github.com/calbertofilho)
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Languages" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
+  [<img src="https://github-profile-trophy.vercel.app/?username=calbertofilho" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)
 
 </div>
 
@@ -108,4 +110,11 @@
       <img align="center" alt="CAMMF-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
     </a>
   </details>
+</div>
+
+<div>
+  Support me:
+  
+  [<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CAMMF-SupportMe" />](https://www.buymeacoffee.com/calbertofilho)
+
 </div>
