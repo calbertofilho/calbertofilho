@@ -1,29 +1,23 @@
 ## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
+
 <div>
+  <div style="float: right">
 
-  <div style="float:right">
-
-  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
-  [<img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="CAMMF-SupportMe" />](https://www.buymeacoffee.com/calbertofilho)
-
+  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
+  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" height="40" alt="CAMMF-SupportMe" align="right" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
-
-
   <div style="float: left">
 
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="165" target="_blank">](https://github.com/calbertofilho)
-
   </div>
-
-
   <div style="float: left">
-    <ul style="margin: 0px; padding: 0px; border: 0px;">
-      This is my :construction: dev profile: :heavy_check_mark:<br/>
-      :house_with_garden: I am a passionate developer from Brazil<br/>
-      :computer: I'm currently interested in game development<br/>
-      :books: And I'm now learning Python<br/>
-      :globe_with_meridians: To follow me or contact:<br/>
-    </ul>
+    This is my :construction: dev profile: :heavy_check_mark:<br/>
+    :house_with_garden: I am a passionate developer from Brazil<br/>
+    :computer: I'm currently interested in game development<br/>
+    :books: And I'm now learning Python<br/>
+    :globe_with_meridians: To follow me or contact:<br/>
+  </div>
+  <div style="float: left">
 
   [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
   [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/cfilhoce)
@@ -32,15 +26,13 @@
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:carlos@lberto.eti.br)
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
-    {TEXT} = Paste your badge text
-    {BADGE-BGCOLOR} = Paste your hex color whithout "#" or name (eg.: white, black, yellow, red, green, cyan, blue)
-    {LOGO-NAME} = Logo name from Simple Icon (https://simpleicons.org/)
-    {LOGO-COLOR} = Same as BADGE-BGCOLOR
+      {TEXT} = Paste your badge text
+      {BADGE-BGCOLOR} = Paste your hex color whithout "#" or name (eg.: white, black, yellow, red, green, cyan, blue)
+      {LOGO-NAME} = Logo name from Simple Icon (https://simpleicons.org/)
+      {LOGO-COLOR} = Same as BADGE-BGCOLOR
   -->
   </div>
-
 </div>
-
 
 ##
 <div align="center">
