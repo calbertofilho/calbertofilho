@@ -32,7 +32,7 @@
 <div align="center">
 
   [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" />](https://github.com/calbertofilho)
-  [<img height="180em" src="https://github-profile-trophy.vercel.app/?username=calbertofilho&column=3&margin-w=15&margin-h=15&theme=darkhub&no-bg=true&no-frame=true" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)<br/>
+  [<img height="180em" src="https://github-profile-trophy.vercel.app/?username=calbertofilho&column=3&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)<br/>
   [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000" alt="CAMMF-Streak" />](https://github.com/calbertofilho)
   [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Languages" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
