@@ -29,8 +29,8 @@
 ##
 <div align="center">
 
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)<br/>
-  [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=FFFFFF00"/>](https://github.com/calbertofilho)
+  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)<br/>
+  [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000"/>](https://github.com/calbertofilho)
   [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
 
@@ -43,10 +43,10 @@
       <b>My repositories...</b> <i>(Click to expand)</i>
     </summary>
 
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter)](https://github.com/calbertofilho/SpaceShooter)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird)](https://github.com/calbertofilho/FlapPythonBird)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun)](https://github.com/calbertofilho/DynoDesertEndlessRun)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone)](https://github.com/calbertofilho/SpaceInvadersClone)
+  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceShooter)
+  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/FlapPythonBird)
+  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/DynoDesertEndlessRun)
+  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceInvadersClone)
 
   </details>
 </div>
