@@ -4,7 +4,6 @@
 
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="150" target="_blank">](https://github.com/calbertofilho)
   This is my :construction: dev profile: :heavy_check_mark:
-
   <h6>
     :house_with_garden: I am from Brazil.<br/>
     :computer: I'm interested in programming<br/>
@@ -37,7 +36,8 @@
 
 </div>
 
-<div align="center">
+##
+<div>
   <details>
     <summary>
       <b>My repositories...</b> <i>(Click to expand)</i>
@@ -49,12 +49,11 @@
   </details>
 </div>
 
-##
-<details>
-  <summary>
-    <b>Things to know about me...</b> <i>(Click to expand)</i>
-  </summary>
-  <div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
+  <details>
+    <summary>
+      <b>Things to know about me...</b> <i>(Click to expand)</i>
+    </summary>
     Servers:<br/>
     <a href="https://github.com/calbertofilho">
       <img align="center" alt="CAMMF-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
@@ -105,5 +104,5 @@
       <img align="center" alt="CAMMF-Ssh" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
       <img align="center" alt="CAMMF-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
     </a>
-  </div>
-</details>
+  </details>
+</div>
