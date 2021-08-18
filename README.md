@@ -40,7 +40,7 @@
 <div style="display: inline_block">
   <details>
     <summary>
-      <b>Things to know about me...</b> <i>(Click to expand)</i>
+      <b>My skills...</b> <i>(Click to expand)</i>
     </summary>
     Servers:<br/>
     <a href="https://github.com/calbertofilho">
