@@ -54,7 +54,7 @@
 <div style="display: inline_block">
   <details>
     <summary>
-      <b>My skills...</b> <i>(Click to expand)</i>
+      <b>My languages and skills...</b> <i>(Click to expand)</i>
     </summary>
     Servers:<br/>
     <a href="https://github.com/calbertofilho">
