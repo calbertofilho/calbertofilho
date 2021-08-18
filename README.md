@@ -43,8 +43,9 @@
       <b>My repositories...</b> <i>(Click to expand)</i>
     </summary>
     <p align="center">
-      <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
-      <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
+      <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
+      <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
+      <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
     </p>
   </details>
 </div>
