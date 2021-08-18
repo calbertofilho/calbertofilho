@@ -1,14 +1,13 @@
-## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif">](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
-
+## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif" />](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
 <div>
   <div style="float: right">
 
   [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
-  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" height="40" alt="CAMMF-SupportMe" align="right" />](https://www.buymeacoffee.com/calbertofilho)
+  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="180" height="40" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
   <div style="float: left">
 
-  [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="165" target="_blank">](https://github.com/calbertofilho)
+  [<img src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" alt="CAMMF-Developer" height="165" align="left" target="_blank" />](https://github.com/calbertofilho)
   </div>
   <div style="float: left">
     This is my :construction: dev profile: :heavy_check_mark:<br/>
@@ -19,11 +18,11 @@
   </div>
   <div style="float: left">
 
-  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
-  [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://instagram.com/cfilhoce)
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">](https://twitter.com/CFilhoCE)
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">](https://github.com/calbertofilho)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](mailto:carlos@lberto.eti.br)
+  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CAMMF-Youtube" target="_blank" />](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
+  [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="CAMMF-Instagram" target="_blank" />](https://instagram.com/cfilhoce)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="CAMMF-Twitter" target="_blank" />](https://twitter.com/CFilhoCE)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="CAMMF-Github" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CAMMF-Gmail" target="_blank" />](mailto:carlos@lberto.eti.br)
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
       {TEXT} = Paste your badge text
@@ -37,10 +36,10 @@
 ##
 <div align="center">
 
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" />](https://github.com/calbertofilho)
-  [<img height="180em" src="https://github-profile-trophy.vercel.app/?username=calbertofilho&column=3&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)<br/>
-  [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000" alt="CAMMF-Streak" />](https://github.com/calbertofilho)
-  [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Languages" />](https://github.com/calbertofilho)
+  [<img src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" height="180em" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://github-profile-trophy.vercel.app/?username=calbertofilho&column=3&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" alt="CAMMF-Trophies" height="180em" target="_blank" />](https://github.com/calbertofilho)<br/>
+  [<img src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000" alt="CAMMF-Streak" height="180em" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Languages" height="180em" target="_blank" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
 
 </div>
