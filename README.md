@@ -42,14 +42,12 @@
     <summary>
       <b>My repositories...</b> <i>(Click to expand)</i>
     </summary>
-    <p align="center">
-      <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
-      <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
-      <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
-      <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
-    </p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
   </details>
-</div><br/>
+</div>
 
 <div style="display: inline_block">
   <details>
