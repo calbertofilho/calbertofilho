@@ -46,6 +46,7 @@
       <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter">
       <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird">
       <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun">
+      <img align="left" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone">
     </p>
   </details>
 </div>
