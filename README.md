@@ -30,7 +30,7 @@
 ##
 <div>
 
-  [<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)
+  [<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)<br/>
   [<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=FFFFFF00"/>](https://github.com/calbertofilho)
   [<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000"/>](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
