@@ -6,9 +6,9 @@
   [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
   This is my :construction: dev profile: :heavy_check_mark:
   <ul style="margin: 0px; padding: 0px; border: 0px;">
-    :house_with_garden: I am from Brazil.<br/>
-    :computer: I'm interested in programming<br/>
-    :books: And I'm currently learning Python<br/>
+    :house_with_garden: I am a passionate developer from Brazil<br/>
+    :computer: I'm currently interested in game development<br/>
+    :books: And I'm now learning Python<br/>
     :globe_with_meridians: To follow me or contact:<br/>
   </ul>
 
@@ -35,7 +35,7 @@
   [<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&background=00000000" alt="CAMMF-Streak" />](https://github.com/calbertofilho)
   [<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Languages" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
-  [<img src="https://github-profile-trophy.vercel.app/?username=calbertofilho" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)
+  [<img src="https://github-profile-trophy.vercel.app/?username=calbertofilho&theme=darkhub&no-bg=true&no-frame=true" alt="CAMMF-Trophies" />](https://github.com/calbertofilho)
 
 </div>
 
