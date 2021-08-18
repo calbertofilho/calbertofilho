@@ -4,7 +4,7 @@
 
   [<img align="left" alt="CAMMF-Developer" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" height="150" target="_blank">](https://github.com/calbertofilho)
   This is my :construction: dev profile: :heavy_check_mark:
-  <h6>
+  <h6 style="margin: 0px; padding: 0px; border: 0px;">
     :house_with_garden: I am from Brazil.<br/>
     :computer: I'm interested in programming<br/>
     :books: And I'm currently learning Python<br/>
