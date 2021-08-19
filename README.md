@@ -1,22 +1,22 @@
 ## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif" />](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
-<div style="font-size: 0; width: 100%; margin: 0 auto;">
-  <div style="float: right; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
+<div style="width: 100%; margin: 0 auto; background-color: green;">
+  <div style="float: right; font-size: 0; display: inline-block;; margin: 0 auto; background-color: red; min-width: 250px;">
 
   [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
   [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="180" height="40" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
-  <div style="float: left; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
+  <div style="float: left; font-size: 0; display: inline-block;; margin: 0 auto; background-color: blue;min-width: 250px;">
 
   [<img src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" alt="CAMMF-Developer" height="165" align="left" target="_blank" />](https://github.com/calbertofilho)
   </div>
-  <div style="float: left; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
+  <div style="display: inline-block;; margin: 0 auto; background-color: yellow; min-width: 250px;">
     This is my :construction: dev profile: :heavy_check_mark:<br/>
     :house_with_garden: I am a passionate developer from Brazil<br/>
     :computer: I'm currently interested in game development<br/>
     :books: And I'm now learning Python<br/>
     :globe_with_meridians: To follow me or contact:<br/>
   </div>
-  <div style="float: left">
+  <div style="float: left; font-size: 0; display: inline-block;; margin: 0 auto; background-color: magenta;min-width: 250px;">
 
   [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CAMMF-Youtube" target="_blank" />](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
   [<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="CAMMF-Instagram" target="_blank" />](https://instagram.com/cfilhoce)
