@@ -1,15 +1,15 @@
 ## Hey!!! [<img alt="hello" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Hey!.gif" />](https://github.com/calbertofilho) I'm Carlos Alberto Filho... ([calbertofilho](https://github.com/calbertofilho)) [<img src="https://komarev.com/ghpvc/?username=calbertofilho&label=Profile%20views&color=0e75b6&style=flat" alt="CAMMF-ProfileViews" align="right" target="_blank" />](https://github.com/calbertofilho)
-<div style="font-size: 0; width: 100%">
-  <div style="float: right; font-size: 0; width: 33%; display: inline-block;">
+<div style="font-size: 0; width: 100%; margin: 0 auto;">
+  <div style="float: right; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
 
   [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/><br/>
   [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="180" height="40" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
-  <div style="float: left; font-size: 0; width: 33%; display: inline-block;">
+  <div style="float: left; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
 
   [<img src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" alt="CAMMF-Developer" height="165" align="left" target="_blank" />](https://github.com/calbertofilho)
   </div>
-  <div style="float: left; font-size: 0; width: 33%; display: inline-block;">
+  <div style="float: left; font-size: 0; width: 33%; display: inline-block;; margin: 0 auto;">
     This is my :construction: dev profile: :heavy_check_mark:<br/>
     :house_with_garden: I am a passionate developer from Brazil<br/>
     :computer: I'm currently interested in game development<br/>
