@@ -2,7 +2,7 @@
 <div style="width: 100%; margin: 0 auto; background-color: green;">
   <div style="float: right; font-size: 0; display: list-item; margin: 0 auto;">
 
-  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)<br/>
+  [<img src="https://img.shields.io/twitter/follow/cfilhoce?logo=twitter&style=for-the-badge" alt="CAMMF-FollowTwiter" width="180" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
   [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="180" height="40" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
   <div style="float: left; font-size: 0; display: inline-block;; margin: 0 auto; background-color: blue;min-width: 250px;">
