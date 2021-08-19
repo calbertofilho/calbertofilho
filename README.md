@@ -13,7 +13,7 @@
     This is my :construction: dev profile: :heavy_check_mark:<br/>
     :house_with_garden: I am a passionate developer from Brazil<br/>
     :computer: I'm currently interested in game development<br/>
-    :books: And I'm now learning Python<br/>
+    :books: And I'm now learning Python<br/><br/>
     :globe_with_meridians: To follow me or contact:<br/>
   </div>
   <div style="float: left; display: inline-block; margin: 0 auto;">
