@@ -52,9 +52,9 @@
     </summary>
 
   [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceShooter)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/FlapPythonBird)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/DynoDesertEndlessRun)
-  [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceInvadersClone)
+  [![FlapPythonBird Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=FlapPythonBird&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/FlapPythonBird)
+  [![DynoDesertEndlessRun Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=DynoDesertEndlessRun&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/DynoDesertEndlessRun)
+  [![SpaceInvadersClone Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceInvadersClone&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceInvadersClone)
 
   </details>
 </div>
