@@ -21,8 +21,9 @@
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="CAMMF-Instagram" target="_blank" />](https://instagram.com/cfilhoce)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="CAMMF-Twitter" target="_blank" />](https://twitter.com/CFilhoCE)
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="CAMMF-GitHub" target="_blank" />](https://github.com/calbertofilho)
-  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" target="_blank" />](https://www.carlosalberto.eti.br)<br />
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="CAMMF-Gmail" target="_blank" />](mailto:carlos@lberto.eti.br)
+    <br />
+  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" target="_blank" />](https://www.carlosalberto.eti.br)
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
       {TEXT} = Paste your badge text
