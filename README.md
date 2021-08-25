@@ -16,7 +16,7 @@
     :globe_with_meridians: To follow me or contact:
   </div>
 
-  [<img src="https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
+  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
   <div style="float: left; display: inline-block; margin: 0 auto;">
 
   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="CAMMF-GitHub" target="_blank" />](https://github.com/calbertofilho)
