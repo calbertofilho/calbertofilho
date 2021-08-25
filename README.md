@@ -12,10 +12,10 @@
     This is my :construction: dev profile: :heavy_check_mark:<br />
     :house_with_garden: I am a passionate developer from Brazil<br />
     :computer: I'm currently interested in game development<br />
-    :books: And I'm now learning Python<br />
+    :books: And I'm now learning Python
 
   [<img src="https://img.shields.io/badge/Website-0E75B6?style=for-the-badge&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
-  [<img alt="CAMMF-Handshake" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Handshake.gif" />](https://github.com/calbertofilho) To follow me or contact
+  [<img alt="CAMMF-Handshake" height="25" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Handshake.gif" />](https://github.com/calbertofilho) To contact or follow me:
   </div>
   <div style="float: left; display: inline-block; margin: 0 auto;">
 
