@@ -9,13 +9,13 @@
   [<img src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" alt="CAMMF-Developer" height="155" align="left" target="_blank" />](https://github.com/calbertofilho)
   </div>
   <div style="float: left; display: list-item; margin: 0 auto;">
-    This is my :construction: dev profile: :heavy_check_mark:<br/>
-    :house_with_garden: I am a passionate developer from Brazil<br/>
-    :computer: I'm currently interested in game development<br/>
-    :books: And I'm now learning Python
-    :globe_with_meridians: To follow me or contact
+    This is my :construction: dev profile: :heavy_check_mark:<br />
 
   [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
+    :house_with_garden: I am a passionate developer from Brazil<br />
+    :computer: I'm currently interested in game development<br />
+    :books: And I'm now learning Python<br />
+    :globe_with_meridians: To follow me or contact
   </div>
   <div style="float: left; display: inline-block; margin: 0 auto;">
 
