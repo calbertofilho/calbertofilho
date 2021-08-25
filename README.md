@@ -19,11 +19,11 @@
   </div>
   <div style="float: left; display: inline-block; margin: 0 auto;">
 
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="CAMMF-GitHub" align="right" target="_blank" />](https://github.com/calbertofilho)
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="CAMMF-Instagram" align="right" target="_blank" />](https://instagram.com/cfilhoce)
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="CAMMF-Twitter" align="right" target="_blank" />](https://twitter.com/CFilhoCE)
-  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CAMMF-Youtube" align="right" target="_blank" />](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CAMMF-Gmail" align="right" target="_blank" />](mailto:carlos@lberto.eti.br)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="CAMMF-GitHub" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="CAMMF-Instagram" target="_blank" />](https://instagram.com/cfilhoce)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="CAMMF-Twitter" target="_blank" />](https://twitter.com/CFilhoCE)
+  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CAMMF-Youtube" target="_blank" />](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CAMMF-Gmail" target="_blank" />](mailto:carlos@lberto.eti.br)
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style={STYLE}&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
       {TEXT} = Paste your badge text
