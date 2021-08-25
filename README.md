@@ -13,10 +13,9 @@
     :house_with_garden: I am a passionate developer from Brazil<br/>
     :computer: I'm currently interested in game development<br/>
     :books: And I'm now learning Python<br/><br/>
-  </div>
-  <div style="float: left; display: list-item; margin: 0 auto;">
+    :globe_with_meridians: To follow me or contact:
 
-  :globe_with_meridians: To follow me or contact:  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
+  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
   </div>
   <div style="float: left; display: inline-block; margin: 0 auto;">
 
