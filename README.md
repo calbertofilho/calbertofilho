@@ -12,7 +12,7 @@
     This is my :construction: dev profile: :heavy_check_mark:<br/>
     :house_with_garden: I am a passionate developer from Brazil<br/>
     :computer: I'm currently interested in game development<br/>
-    :books: And I'm now learning Python<br/>
+    :books: And I'm now learning Python
     :globe_with_meridians: To follow me or contact
 
   [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" align="right" target="_blank" />](https://www.carlosalberto.eti.br)
