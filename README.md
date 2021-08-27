@@ -51,7 +51,7 @@
 <div>
   <details>
     <summary>
-      <b>My repositories...</b> <i>(Click to expand)</i>
+      <b>My highlights repositories...</b> <i>(Click to expand)</i>
     </summary>
 
   [![SpaceShooter Card](https://github-readme-stats.vercel.app/api/pin/?username=calbertofilho&repo=SpaceShooter&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/calbertofilho/SpaceShooter)
