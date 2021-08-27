@@ -9,14 +9,14 @@
   [<img src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/developer.gif" alt="CAMMF-Developer" height="150" align="left" target="_blank" />](https://github.com/calbertofilho)
   </div>
   <div style="float: left; display: list-item; margin: 0 auto;">
-    This is my :construction: dev profile: :heavy_check_mark:<br />
+    This is my :construction: dev profile: :heavy_check_mark:<br /><br />
 
   [<img alt="CAMMF-Brazil" width="18" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Brasil.gif" />](https://github.com/calbertofilho)
     I am a passionate developer from Brazil<br />
   [<img alt="CAMMF-Programming" width="18" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Programming.gif" />](https://github.com/calbertofilho)
     I'm currently interested in game development<br />
   [<img alt="CAMMF-Learning" width="18" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Learning.gif" />](https://github.com/calbertofilho)
-    And I'm now learning Python<br />
+    And I'm now learning Python<br /><br />
   [<img alt="CAMMF-Handshake" width="18" src="https://github.com/calbertofilho/calbertofilho/blob/main/assets/images/gifs/Handshake.gif" />](https://github.com/calbertofilho)
     To contact or follow me:<br />
   [<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="CAMMF-GitHub" target="_blank" />](https://github.com/calbertofilho)
