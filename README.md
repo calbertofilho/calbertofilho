@@ -2,7 +2,7 @@
 <div style="width: 100%; margin: 0 auto;">
   <div style="float: right; max-width: 200px; display: list-item; margin: 0 auto;">
 
-  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="217" height="60" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
+  [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="CAMMF-SupportMe" width="145" height="40" align="right" target="_blank" />](https://www.buymeacoffee.com/calbertofilho)
   </div>
   <div style="float: left; font-size: 0; display: inline-block;; margin: 0 auto; background-color: blue;min-width: 250px;">
 
