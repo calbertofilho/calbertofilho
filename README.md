@@ -25,7 +25,7 @@
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="CAMMF-Twitter" target="_blank" />](https://twitter.com/CFilhoCE)
   [<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="CAMMF-Youtube" target="_blank" />](https://www.youtube.com/channel/UCqzFzm1V9puvad_6Q0gvTRA)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="CAMMF-Gmail" target="_blank" />](mailto:carlos@lberto.eti.br)
-  [<img src="https://img.shields.io/badge/Website-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Website" target="_blank" />](http://www.carlosalberto.eti.br)
+  [<img src="https://img.shields.io/badge/Site-0E75B6?style=flat-square&logo=Qiskit&logoColor=white" alt="CAMMF-Site" target="_blank" />](http://www.carlosalberto.eti.br)
   <!--
     https://img.shields.io/badge/{TEXT}-{BADGE-BGCOLOR}?style={STYLE}&logo={LOGO-NAME}&logoColor={LOGO-COLOR}
       {TEXT} = Paste your badge text
