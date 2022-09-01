@@ -3,6 +3,8 @@
 -- Banco de dados: `phonebook`
 --
 -- --------------------------------------------------------
+CREATE DATABASE IF NOT EXISTS `phonebook` DEFAULT CHARACTER SET utf8 COLLATE utf8_swedish_ci;
+USE `phonebook`;
 
 --
 -- Estrutura para tabela `tb_groups`
