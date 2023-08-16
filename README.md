@@ -40,10 +40,10 @@
 ##
 <div align="center">
 
-  [<img src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt_BR&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" height="180em" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://github-readme-stats.vercel.app/api?username=calbertofilho&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000" alt="CAMMF-Stats" height="180em" target="_blank" />](https://github.com/calbertofilho)
   [<img src="https://github-profile-trophy.vercel.app/?username=calbertofilho&column=3&margin-w=15&margin-h=15&theme=onedark&no-bg=true&locale=pt_BR&no-frame=true" alt="CAMMF-Trophies" height="180em" target="_blank" />](https://github.com/calbertofilho)<br/>
   [<img src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&locale=pt_BR&mode=daily&background=00000000" alt="CAMMF-Streak" height="180em" target="_blank" />](https://github.com/calbertofilho)
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&locale=pt_BR&bg_color=00000000&layout=compact" alt="CAMMF-Languages" height="170em" target="_blank" />](https://github.com/calbertofilho)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000&layout=compact" alt="CAMMF-Languages" height="170em" target="_blank" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
 
 </div>
