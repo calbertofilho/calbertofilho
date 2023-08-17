@@ -45,7 +45,6 @@
   [<img src="https://github-readme-streak-stats.herokuapp.com?user=calbertofilho&theme=dark&hide_border=true&locale=pt_BR&mode=daily&background=00000000" alt="CAMMF-Streak" height="180em" target="_blank" />](https://github.com/calbertofilho)
   [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calbertofilho&langs_count=10&theme=dark&hide_border=true&bg_color=00000000&layout=compact" alt="CAMMF-Languages" height="170em" target="_blank" />](https://github.com/calbertofilho)
   [![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)](https://github.com/calbertofilho)
-  ![Snake animation](https://github.com/calbertofilho/calbertofilho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
